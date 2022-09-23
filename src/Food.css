@@ -1,0 +1,96 @@
+.header{
+    display: column;
+    background-color: rgb(244, 242, 242);
+}
+
+.head{
+    display: flex;
+    background-color: rgb(244, 242, 242);
+    height: 100%;
+   
+}
+.hello{
+    background-color: rgb(76, 47, 169);
+    height: 30%;
+    width: 100%;
+   
+}
+
+.first{
+    display: flex;
+    margin-top: 120px;
+    margin-left: 60px;
+    background-color: white;
+    height: 90%;
+    border-radius: 7px;
+   
+}
+.first>img1{
+    margin-top: 50px;
+   
+}
+.pr{
+    margin-top: 200px;
+}
+.se{
+    margin-top: 120px;
+    margin-left: 120px;
+    background-color: white;
+    border-radius: 7px;
+    height: 90%;
+}
+.se>pr{
+    color: blue;
+}
+.th{
+    margin-top: 460px;
+    margin-left: -1080px;
+    background-color: white;
+    border-radius: 7px;
+    height: 90%;
+}
+.but{
+    font-size: 400px;
+}
+.pi{
+    font-size: 45px;
+    font-weight: 700;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 200px;
+    padding: 5px;
+
+}
+.plus{
+    background-color: rgb(76, 47, 169);
+    margin-left: 20px;
+    font-size: 30px;
+    padding: 2px;
+    height: 5%;
+    margin-bottom: 10px;
+    border-radius: 7px;
+    width: 300px;
+    max-width: 80%;
+}
+.mi{
+    font-size: 45px;
+    font-weight: 700;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 200px;
+    padding: 5px;
+}
+
+.minus{
+    background-color: gray;
+    margin-left: 20px;
+    font-size: 30px;
+    padding: 2px;
+    height: 5%;
+    margin-bottom: 10px;
+    border-radius: 7px;
+    width: 300%;
+    max-width: 80%;
+    margin-right: 60px;
+
+}
